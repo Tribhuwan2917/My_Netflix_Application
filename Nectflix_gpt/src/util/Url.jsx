@@ -1,0 +1,2 @@
+export const Netflix_logo_Image_Url="https://res.cloudinary.com/dwnlcx35q/image/upload/v1707561940/p4bicivrmtcylgxaevwh.jpg"
+export const Netflix_Background_Image_Url="https://res.cloudinary.com/dwnlcx35q/image/upload/v1707559079/utungcwy1cdijnlyfgcl.jpg"
